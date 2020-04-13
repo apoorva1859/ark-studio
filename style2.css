@@ -12,6 +12,15 @@ body{
     height:200%;
     width: 100%;
 }
+.recent_work{text-decoration: none;}
+.services.wrapper{text-decoration: none;}
+#nav_item_4{text-decoration: none;}
+#cta_link{text-decoration: none;}
+.footer_widget{text-decoration: none;}
+#comp_item_3{text-decoration: none;}
+#comp_item_1{text-decoration: none;}
+#comp_list{text-decoration: none;}
+#sup_item_3{text-decoration: none;}
 
 /* section 1 */
 .billboard_section{
